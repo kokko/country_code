@@ -20,6 +20,6 @@
 	}
 ?>
 接続元IPアドレス: <strong><?php echo $ip_addr; ?></strong><br>
-→<?php echo $answer; ?></strong><br>
+→<?php echo $answer; ?><br>
 </body>
 </html>
