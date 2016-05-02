@@ -38,7 +38,7 @@ class CountryCode
 	protected $country_data_file;
 
 	//エラー格納領域
-	protected $errors;
+	var $errors;
 
 
 	function __construct()
